@@ -8,10 +8,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Add unit tests to the project
 
+## [1.0.1]
+### Changed
+- Updated package.json to reflect correct License (MIT)
+
 ## [1.0.0] - 2017-11-16
 ### Added
 - CLI executable `npm-token-switch`
 - First version
 
 
-[Unreleased]: https://github.com/meister/npm-token-switch/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/meister/npm-token-switch/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/meister/npm-token-switch/compare/v1.0.0...v1.0.1
