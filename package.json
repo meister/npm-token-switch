@@ -1,0 +1,29 @@
+{
+  "name": "npm-token-switch",
+  "version": "1.0.0",
+  "description": "Small CLI for switching NPM access tokens on your account",
+  "keywords": [
+    "npm",
+    "token",
+    "cli"
+  ],
+  "bin": {
+    "npm-token-switch": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "Martin Kapp <martin@coderats.net> (https://github.com/meister)",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-pipedrive": "^1.0.8"
+  },
+  "dependencies": {
+    "cli-color": "^1.2.0"
+  }
+}
