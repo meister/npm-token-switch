@@ -8,11 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Add unit tests to the project
 
-## [1.0.1]
+## [1.0.1] - 2017-11-16
 ### Changed
 - Updated package.json to reflect correct License (MIT)
 
-## [1.0.0] - 2017-11-16
+## 1.0.0 - 2017-11-16
 ### Added
 - CLI executable `npm-token-switch`
 - First version
