@@ -7,6 +7,10 @@
     "token",
     "cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meister/npm-token-switch"
+  },
   "bin": {
     "npm-token-switch": "./bin/cli.js"
   },
@@ -18,7 +22,7 @@
     "node": ">=6"
   },
   "author": "Martin Kapp <martin@coderats.net> (https://github.com/meister)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-pipedrive": "^1.0.8"
