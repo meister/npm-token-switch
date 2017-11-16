@@ -1,5 +1,7 @@
 # NPM Token Switch
 
+[![Build Status](https://travis-ci.org/meister/npm-token-switch.svg?branch=master)](https://travis-ci.org/meister/npm-token-switch)
+
 A command line tool for changing between your existing NPM registry access
 tokens.
 
