@@ -1,6 +1,6 @@
 {
   "name": "npm-token-switch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small CLI for switching NPM access tokens on your account",
   "keywords": [
     "npm",
