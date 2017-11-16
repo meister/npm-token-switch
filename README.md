@@ -34,9 +34,11 @@ you can easily add it to the `npm-token-switch` list:
 
 ```
 echo "//registry.npmjs.org/:_authToken=your-npm-token" > ~/.npmrc.token.account-name
+chmod 600 ~/.npmrc.token.account-name
 ```
 
-Of course replacing `your-npm-token` and `account-name` in the command.
+Of course replacing `your-npm-token` and `account-name` in the command and make
+sure to set the file permissions to protect your token.
 
 ## License
 
