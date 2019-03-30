@@ -24,7 +24,7 @@
   "author": "Martin Kapp <martin@coderats.net> (https://github.com/meister)",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.1.0",
+    "eslint": "^5.16.0",
     "eslint-config-pipedrive": "^3.0.0"
   },
   "dependencies": {
