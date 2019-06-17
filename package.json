@@ -25,7 +25,7 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.1.0",
-    "eslint-config-pipedrive": "^4.0.0"
+    "eslint-config-pipedrive": "^4.0.1"
   },
   "dependencies": {
     "cli-color": "^1.2.0"
